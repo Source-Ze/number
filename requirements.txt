@@ -2,4 +2,4 @@ telethon
 requests
 datetime
 configparser
-subprocess
+
