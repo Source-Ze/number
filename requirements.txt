@@ -1,6 +1,5 @@
 telethon
 requests
 datetime
-pydoc
 configparser
 subprocess
